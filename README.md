@@ -103,3 +103,33 @@ Some of the most important findings include:
 ---
 
 ## Repository Structure
+crime-pattern-analysis-montgomery-county/
+│
+├── README.md
+├── notebooks/
+│ └── crime_pattern_analysis_montgomery_county.ipynb
+├── data/
+│ ├── raw/
+│ └── processed/
+├── assets/
+│ └── figures/
+└── report/
+
+
+---
+
+## What This Project Demonstrates
+From a recruiter’s perspective, this project demonstrates my ability to:
+
+- Work confidently with large, imperfect real-world datasets
+- Apply structured analytical thinking rather than ad-hoc exploration
+- Maintain high standards for data quality and validation
+- Communicate insights clearly through visuals and written narrative
+- Translate raw data into insights with practical relevance
+
+---
+
+## Notes
+This project was completed as part of an academic group assignment.  
+My primary contributions focused on **data preparation, exploratory analysis, and visual interpretation**.
+
